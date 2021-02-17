@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/site/static/css/main.468d8592.chunk.css",
-    "main.js": "/site/static/js/main.bea7a071.chunk.js",
-    "main.js.map": "/site/static/js/main.bea7a071.chunk.js.map",
+    "main.js": "/site/static/js/main.824ad2dc.chunk.js",
+    "main.js.map": "/site/static/js/main.824ad2dc.chunk.js.map",
     "runtime-main.js": "/site/static/js/runtime-main.4d833343.js",
     "runtime-main.js.map": "/site/static/js/runtime-main.4d833343.js.map",
     "static/css/2.ae9f1eb3.chunk.css": "/site/static/css/2.ae9f1eb3.chunk.css",
@@ -12,13 +12,14 @@
     "static/css/2.ae9f1eb3.chunk.css.map": "/site/static/css/2.ae9f1eb3.chunk.css.map",
     "static/css/main.468d8592.chunk.css.map": "/site/static/css/main.468d8592.chunk.css.map",
     "static/js/2.0ef41f45.chunk.js.LICENSE.txt": "/site/static/js/2.0ef41f45.chunk.js.LICENSE.txt",
-    "static/media/headerseutoken.d39af65f.png": "/site/static/media/headerseutoken.d39af65f.png"
+    "static/media/checkMark.07e0f1f4.png": "/site/static/media/checkMark.07e0f1f4.png",
+    "static/media/tokencreator.08545656.png": "/site/static/media/tokencreator.08545656.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4d833343.js",
     "static/css/2.ae9f1eb3.chunk.css",
     "static/js/2.0ef41f45.chunk.js",
     "static/css/main.468d8592.chunk.css",
-    "static/js/main.bea7a071.chunk.js"
+    "static/js/main.824ad2dc.chunk.js"
   ]
 }
